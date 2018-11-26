@@ -1,0 +1,86 @@
+.myBtn{
+    -fx-background-color: #5dccff;
+    -fx-font-weight: bold;
+}
+
+.myBtn:hover{
+    -fx-background-color: #5fc0f4;
+}
+
+.UpBtn{
+    -fx-background-color: #0fff00;
+    -fx-font-weight: bold;
+}
+
+.UpBtn:hover{
+    -fx-background-color: #10d900;
+}
+
+.DelBtn{
+    -fx-background-color: #ffc200;
+    -fx-font-weight: bold;
+}
+
+.DelBtn:hover{
+    -fx-background-color: #f2b500;
+}
+
+.logOffBtn{
+    -fx-background-color: #ff000a;
+    -fx-font-weight: bold;
+}
+
+.logOffBtn:hover{
+    -fx-background-color: #d0000b;
+}
+
+.text-field{
+    -fx-prompt-text-fill: #abb0cc;
+    -fx-font-weight: bold;
+}
+
+.text-area {
+    -fx-background-color: rgb(244, 244, 244);
+    -fx-font-size: 14px;
+    -fx-text-fill: #002185;
+
+}
+
+.text-input {
+    -fx-text-fill: -fx-text-inner-color;
+}
+
+.labelHint{
+    -fx-font-weight: bold;
+    -fx-text-fill: #002086;
+    -fx-text-alignment: center;
+    -fx-font-size: 16px;
+}
+
+.headArea{
+    -fx-background-color: #5dccff;
+    -fx-font-weight: bold;
+}
+
+.drugNdrop {
+    -fx-background-color: rgba(93, 204, 255, 0.30);
+
+}
+
+.drugNdrop:hover {
+    -fx-background-color: rgba(93, 204, 255, 0.51);
+}
+
+.loadLab {
+    -fx-background-color: rgba(93, 204, 255, 0.30);
+    -fx-font-weight: bold;
+}
+
+.extLab {
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+}
+
+.tabPane{
+    -fx-background-color: aliceblue;
+}
